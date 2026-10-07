@@ -49,4 +49,4 @@ The notebook was developed in Google Colab. The word2vec vectors (`word2vec-goog
 
 ## Author
 
-**Aayush Silwal**: [GitHub](https://github.com/aayush505)
+**Aayush Silwal**
